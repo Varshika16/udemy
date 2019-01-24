@@ -1,0 +1,5 @@
+hi
+welcome to branching concpet in git
+branches are collectin or series of commits
+there is a default branch called MASTER
+
